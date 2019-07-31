@@ -74,3 +74,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rails-controller-testing'
 gem 'jquery-rails'
+gem 'faker',          '>=1.7.3'
+gem 'will_paginate',           '>=3.1.6'
+gem 'bootstrap-will_paginate', '>=1.0.0'
